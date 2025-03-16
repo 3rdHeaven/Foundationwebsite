@@ -1,0 +1,32 @@
+
+img {
+    border: 1px solid #c7037c;
+    border-radius: 50%;
+    padding: 5px;
+    width: 150px;
+  }
+
+  body{
+    background-color: blueviolet;
+    color: black;
+  }
+  nav{
+    height: 700;
+    width: 175px;
+    float:auto;
+    padding: 5px;
+    line-height: 30px;
+  }
+  
+    footer{
+      text-align: center;
+      margin-right: auto;
+    }
+  #JDVance.png{
+    margin-right: auto;
+    width:auto;
+    text-align: center;
+  }
+
+
+  
